@@ -19,7 +19,7 @@ Using this program, we can crop all faces in one or more photos in a folder.
 
 *- While running the program, we have to enter the folder where photos are saved also another folder where we want to save our result, if folder is not present, it will create new one
 
-*-The faces in each photo will saved in new folder with identifiable file name.
+*-The faces in each photo will saved in new folder given as input with identifiable file name.
 
 *- If no faces present or non cropable image it will be saved inside a folder called 'invalid' inside the new folder.
 
