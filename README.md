@@ -12,3 +12,15 @@ You have to install opencv for python, for installation better to refer on inter
    For Ubuntu users, you can check on this link to install opencv : https://help.ubuntu.com/community/OpenCV
                        or     simply use: 'sudo apt-get install python-opencv' on terminal
    
+
+Using this program, we can crop all faces in one or more photos in a folder.
+
+*- The photos we want to crop is first saved in a directory
+
+*- While running the program, we have to enter the folder where photos are saved also another folder where we want to save our result, if folder is not present, it will create new one
+
+*-The faces in each photo will saved in new folder with identifiable file name.
+
+*- If no faces present or non cropable image it will be saved inside a folder called 'invalid' inside the new folder.
+
+*-It will take only jpg or png files.
